@@ -30,7 +30,7 @@
                 </div>
               </div>
               <div class="col-sm-12 col-md img text-center">
-                <img class="im" src="img/bank.png" class="img-fluid pt-2">
+                <img class="im" src="img/bb.png" class="img-fluid pt-2">
               </div>
             </div>
 
